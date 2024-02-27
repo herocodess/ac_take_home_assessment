@@ -1,0 +1,45 @@
+{
+    "@@locale": "en",
+    "appName": "Xissors",
+    "ac_onboarding1_text": "Save money & get up\nto 40% commission on selling products",
+    "ac_onboarding2_text": "Make more money  by growing your\nbusiness",
+    "ac_onboarding3_text": "Send commisions & tips directly to you\n bank account",
+    "login": "Log in",
+    "get_started": "Get Started",
+    "login_subtext": "Make sure your information is accurate",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "continue_text": "Continue",
+    "validate_email_error": "Please enter a valid email address",
+    "password_is_required": "Password is required",
+    "tap_to_dismiss": "Tap to dismiss",
+    "add_product": "Add Product",
+    "search_text": "Search",
+    "back_text": "Back",
+    "summary": "Summary",
+    "view_breakdown": "View breakdown",
+    "subtotal": "Subtotal",
+    "your_commission": "Your commission",
+    "tax": "Tax ({percent} %)",
+    "@tax": {
+        "placeholders": {
+            "percent": {
+                "type": "String"
+            }
+        }
+    },
+    "total": "Total",
+    "add_service": "Add Service",
+    "products_count": "Products({count})",
+    "@products_count": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "new_product": "New Product",
+    "proceed_to_payment": "Proceed to Payment"
+}
